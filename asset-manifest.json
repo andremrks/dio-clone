@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/dio-clone/static/js/main.31f185c4.js",
+    "static/media/banner.png": "/dio-clone/static/media/banner.cd15c5ebb0555a31a9fe.png",
+    "index.html": "/dio-clone/index.html",
+    "main.31f185c4.js.map": "/dio-clone/static/js/main.31f185c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31f185c4.js"
+  ]
+}
