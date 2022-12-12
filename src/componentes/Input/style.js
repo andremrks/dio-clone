@@ -13,6 +13,12 @@ export const IconContainer = styled.div`
     margin-right: 10px;
 `
 
+export const ErrorText = styled.p`
+    color: #ff0000;
+    font-size: 12px;
+    font-weight: 600;
+`
+
 export const InputText = styled.input`
     background-color: transparent;
     font-size: 16px;
