@@ -17,7 +17,7 @@ const Card = () =>  {
             </UserInfo>
             <PostInfo>
                 <h4>Projeto para curso de Front-end Developer</h4>
-                <p>Projeto feito em React no Bootcamp da Orangetech+ na DIO...<strong>Saiba Mais</strong></p>
+                <p>Projeto feito em React no Bootcamp da Orangetech+ na DIO...<strong><a href="https://dio.me">Saiba Mais</a></strong></p>
             </PostInfo>
             <HasInfo>
                 <h4>#HTML #CSS #JavaScript</h4>

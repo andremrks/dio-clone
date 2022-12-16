@@ -70,6 +70,11 @@ export const PostInfo = styled.div`
         line-height: 16px;
         color: #fff;
     }
+
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
 `
 export const HasInfo = styled.div`
     margin-bottom: 12px;

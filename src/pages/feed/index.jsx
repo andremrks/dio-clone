@@ -18,9 +18,6 @@ const Feed = () => {
                 <Card />
                 <Card />
                 <Card />
-                <Card />
-                <Card />
-                <Card />
             </Column>
             <Column flex={1}>
                 <TitleHighlight># RANKING TOP 5 DA SEMANA</TitleHighlight>
